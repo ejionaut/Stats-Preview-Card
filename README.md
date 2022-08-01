@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the work](./images/Screenshot 2022-08-01 at 21-33-43 Frontend Mentor Stats preview card component.png)
+![images/Screenshot 2022-08-01 at 21-33-43 Frontend Mentor Stats preview card component.png](https://github.com/ejionaut/Stats-Preview-Card/blob/main/images/Screenshot%202022-08-01%20at%2021-33-43%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
 
